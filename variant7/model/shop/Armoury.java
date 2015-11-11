@@ -7,6 +7,9 @@ import tasks.task1.variant7.model.ammunition.Ammunition;
  * The class is an inheritor of an abstract class Shop,
  * represents the concrete realisation of a shop, that
  * uses instances of Ammunition class as shop items.
+ *
+ * @author Sergey Terletskiy
+ * @version 1.0 10/11/2015
  */
 public class Armoury extends Shop<Ammunition> {
 

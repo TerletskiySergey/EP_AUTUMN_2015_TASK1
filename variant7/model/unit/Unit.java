@@ -12,6 +12,9 @@ import java.util.List;
  * in the ArmouryApp.java application, within which unit can be outfitted
  * by some armoury items. Class implements Serializable interface to be able
  * to store class instances in external file in serializable form.
+ *
+ * @author Sergey Terletskiy
+ * @version 1.0 10/11/2015
  */
 public class Unit implements Serializable {
 
